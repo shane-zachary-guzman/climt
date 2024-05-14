@@ -1,2 +1,2 @@
 # climt
-Card List Into Markdown Table. This is a Typescript Project that reads a JSON file and translates the contents into a Markdown Table
+Card List Into Multi-form Tabulation. This is a Typescript Project that reads a Yaml or JSON file and translates the contents into a Markdown Table or JSON object.

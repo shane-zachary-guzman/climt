@@ -1,0 +1,35 @@
+{
+  "name": "climt",
+  "version": "0.0.1",
+  "description": "Card List Into Multi-form Tabulation. This is a Typescript Project that reads a Yaml or JSON file and translates the contents into a Markdown Table or JSON Object",
+  "main": "climt.js",
+  "scripts": {
+    "run": "node ./dist/climt.js",
+    "test": "test"
+  },
+  "bin": {
+    "climt": "./dist/climt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shane-zachary-guzman/climt.git"
+  },
+  "author": "Shane Zachary Guzman <shane.zachary.guzman@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shane-zachary-guzman/climt/issues"
+  },
+  "homepage": "https://github.com/shane-zachary-guzman/climt#readme",
+  "devDependencies": {
+    "@types/gulp": "^4.0.17",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "args-parser": "^1.3.0",
+    "yaml": "^2.4.2"
+  }
+}

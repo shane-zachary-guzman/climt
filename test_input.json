@@ -1,0 +1,25 @@
+{
+  "source": "scryfall",
+  "groups": [
+    {
+      "label": "green",
+      "items": [
+        { 
+          "id": "d661aa8e-46fd-4f47-ade7-99c9142f3733",
+          "name": "Awaken the Woods",
+          "isFoil": false
+        }
+      ]
+    },
+    {
+      "label": "red",
+      "items": [
+        { 
+          "id": "ddbcc6e9-b5f4-4f20-9c15-b690b4f64304",
+          "name": "Thundering Giant",
+          "isFoil": true
+        }
+      ]
+    }
+  ]
+}
